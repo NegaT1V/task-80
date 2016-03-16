@@ -1,9 +1,7 @@
-import java.io.IOException;
-
 
 public class StillUsingVariables
 {
-	public static void main( String[] args ) throws java.io.IOException 
+	public static void main( String[] args ) 
 		 {
 		 	String name;
 		 	int year;
